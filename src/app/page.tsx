@@ -13,14 +13,14 @@ const projects = [
   {
     title: "Verlux",
     description: "A full-stack e-commerce solution with real-time inventory management, payment processing, and analytics dashboard.",
-    tags: ["TypeScript", "JavaScript", "Tailwind", "Resend"],
+    tags: ["Next.js", "TypeScript", "Tailwind", "Resend"],
     link: "https://verlux.ca",
     github: "https://github.com/Mehriddin-bytes/Verlux",
   },
   {
     title: "Mufo",
     description: "Collaborative project management tool with real-time updates, Kanban boards, and team analytics.",
-    tags: ["TypeScript", "JavaScript", "Tailwind", "Resend"],
+    tags: ["Next.js", "TypeScript", "Tailwind", "Resend"],
     link: "https://mufo.ca",
     github: "https://github.com/Mehriddin-bytes/Mufo",
   },
